@@ -1,3 +1,4 @@
+<p align="center">
 <img 
     src="assets/imagem_artigo_publicado.png"
     width="400"  
